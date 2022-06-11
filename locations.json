@@ -6,8 +6,8 @@
 		"notes": "A Magnum Opus foi criada com a união de forças de dois dos maiores empresários de Los Santos, Hugo Virgilio e Ming Xiao, que, inicialmente, compartilhavam da ambição de dominar toda Los Santos, unindo força com os mais poderosos e milionários da cidade.",
 		"wiki_link": "https://nopixelsa.fandom.com/pt-br/wiki/Magnum_Opus",
 		"order": 0,
-		"strokecolor": "000000",
-		"fillcolor": "FFFFFF",
+		"strokecolor": "f6d9ac",
+		"fillcolor": "fdf9df",
 		"latlngarray": [
 			{"lat": -46.694, "lng": -13.176},
 			{"lat": -48.034, "lng": -13.989},
@@ -32,8 +32,8 @@
 		"notes": "A Magnum Opus foi criada com a união de forças de dois dos maiores empresários de Los Santos, Hugo Virgilio e Ming Xiao, que, inicialmente, compartilhavam da ambição de dominar toda Los Santos, unindo força com os mais poderosos e milionários da cidade.",
 		"wiki_link": "https://nopixelsa.fandom.com/pt-br/wiki/Magnum_Opus",
 		"order": 0,
-		"strokecolor": "000000",
-		"fillcolor": "FFFFFF",
+		"strokecolor": "f6d9ac",
+		"fillcolor": "fdf9df",
 		"latlngarray": [
 			{"lat": -71.199, "lng": -52.484},
 			{"lat": -71.007, "lng": -50.693},
@@ -215,37 +215,11 @@
 		]
 	},
 	{
-		"id": 1008,
-		"type": "Territórios",
-		"title": "LC",
-		"notes": "",
-		"wiki_link": "",
-		"order": 0,
-		"strokecolor": "2b78a6",
-		"fillcolor": "3ba5e3",
-		"latlngarray": [
-			{"lat": -76.350, "lng": 21.561},
-			{"lat": -76.199, "lng": 23.286},
-			{"lat": -76.059, "lng": 24.319},
-			{"lat": -75.883, "lng": 25.165},
-			{"lat": -75.520, "lng": 25.945},
-			{"lat": -75.047, "lng": 26.201},
-			{"lat": -74.659, "lng": 26.029},
-			{"lat": -74.389, "lng": 25.787},
-			{"lat": -73.818, "lng": 24.952},
-			{"lat": -73.329, "lng": 23.699},
-			{"lat": -73.758, "lng": 21.370},
-			{"lat": -74.129, "lng": 18.448},
-			{"lat": -75.528, "lng": 20.493},
-			{"lat": -75.934, "lng": 20.845}
-		]
-	},
-	{
 		"id": 1009,
 		"type": "Territórios",
 		"title": "Bondi Boys MC",
-		"notes": "",
-		"wiki_link": "",
+		"notes": "O BBMC é um Motor Club que incorpora o caos e o espírito de send it, que aprenderam com seu primeiro-ministro original Irwin Dundee . O principal negócio do clube é roubar bancos, bem como a produção e distribuição de metanfetamina através de venda nas ruas e transportes blindados de metanfetamina. Vários membros também estão envolvidos no tráfico de armas, na venda de explosivos, na produção e distribuição de maconha, corridas de rua, reforço, veículos scratch e negócios legais.",
+		"wiki_link": "https://nopixelsa.fandom.com/pt-br/wiki/Bondi_Boys_Motor_Club_(BBMC)",
 		"order": 0,
 		"strokecolor": "1560BD",
 		"fillcolor": "1560BD",
@@ -444,6 +418,32 @@
 			{"lat": 62.234, "lng": -49.653},
 			{"lat": 61.425, "lng": -49.939},
 			{"lat": 60.959, "lng": -48.379}
+		]
+	},
+	{
+		"id": 1016,
+		"type": "Territórios",
+		"title": "LC",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "2b78a6",
+		"fillcolor": "3ba5e3",
+		"latlngarray": [
+			{"lat": -76.350, "lng": 21.561},
+			{"lat": -76.199, "lng": 23.286},
+			{"lat": -76.059, "lng": 24.319},
+			{"lat": -75.883, "lng": 25.165},
+			{"lat": -75.520, "lng": 25.945},
+			{"lat": -75.047, "lng": 26.201},
+			{"lat": -74.659, "lng": 26.029},
+			{"lat": -74.389, "lng": 25.787},
+			{"lat": -73.818, "lng": 24.952},
+			{"lat": -73.329, "lng": 23.699},
+			{"lat": -73.758, "lng": 21.370},
+			{"lat": -74.129, "lng": 18.448},
+			{"lat": -75.528, "lng": 20.493},
+			{"lat": -75.934, "lng": 20.845}
 		]
 	},
 
