@@ -1,7 +1,7 @@
 [
 	{
 		"id": 1005,
-		"type": "Territórios",
+		"type": "Territories",
 		"title": "Ballas",
 		"notes": "",
 		"wiki_link": "",
@@ -9,19 +9,63 @@
 		"strokecolor": "551A8B",
 		"fillcolor": "551A8B",
 		"latlngarray": [
-			{"lat": -74.477, "lng": -10.499},
-			{"lat": -75.111, "lng": -7.554},
-			{"lat": -76.083, "lng": -10.828},
-			{"lat": -76.303, "lng": -11.004},
-			{"lat": -76.303, "lng": -12.300},
-			{"lat": -75.908, "lng": -13.333},
-			{"lat": -74.606, "lng": -19.881},
-			{"lat": -74.376, "lng": -18.541},
-			{"lat": -74.126, "lng": -16.541},
-			{"lat": -75.071, "lng": -12.432}
+			{"lat": -75.820, "lng": -11.716},
+			{"lat": -75.711, "lng": -11.301},
+			{"lat": -74.713, "lng": -16.036},
+			{"lat": -74.823, "lng": -16.421}
 		]
 	},
 
+	{
+		"id": 1006,
+		"type": "Territories",
+		"title": "GSF (Famelies)",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "008000",
+		"fillcolor": "008000",
+		"latlngarray": [
+			{"lat": -73.137, "lng": -16.198},
+
+			{"lat": -72.626, "lng": -18.329},
+
+			{"lat": -72.188, "lng": -19.933},
+
+			{"lat": -72.887, "lng": -21.911},
+
+			{"lat": -73.995, "lng": -21.867},
+
+			{"lat": -74.402, "lng": -20.087}
+		]
+	},
+
+	{
+		"id": 1007,
+		"type": "Territories",
+		"title": "Chang Gang",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FFAE42",
+		"fillcolor": "FFAE42",
+		"latlngarray": [
+			{"lat": -66.226, "lng": -34.073},
+
+			{"lat": -66.191, "lng": -36.326},
+
+
+			{"lat": -65.503, "lng": -36.249},
+
+
+			{"lat": -65.490, "lng": -33.876},
+
+
+			{"lat": -73.995, "lng": -21.867},
+
+			{"lat": -74.402, "lng": -20.087}
+		]
+	},
 
 
 
