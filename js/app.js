@@ -101,7 +101,7 @@ $(function() {
 
 	var categories = (window.cats = new CategoriesCollection([
 		{
-			name: 'Territórios',
+			name: 'Territories',
 			icon: 'General/wall-breach.png',
 			type: 'Geral',
 			enabled: true,
