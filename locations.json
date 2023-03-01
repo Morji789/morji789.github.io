@@ -11,8 +11,9 @@
 		"latlngarray": [
 			{"lat": -75.820, "lng": -11.716},
 			{"lat": -75.711, "lng": -11.301},
-			{"lat": -74.713, "lng": -16.036},
-			{"lat": -74.823, "lng": -16.421}
+			{"lat": -75.135, "lng": -16.820},
+			{"lat": -75.984, "lng": -12.403}
+
 		]
 	},
 
@@ -64,24 +65,58 @@
 
 
 	{
-		"id": 1007,
+		"id": 1008,
 		"type": "Territories",
-		"title": "Chang Gang",
+		"title": "Yakuza",
 		"notes": "",
 		"wiki_link": "",
 		"order": 0,
-		"strokecolor": "FFAE42",
-		"fillcolor": "FFAE42",
+		"strokecolor": "FF3131",
+		"fillcolor": "FF3131",
 		"latlngarray": [
-			{"lat": -66.226, "lng": -34.073},
-
-			{"lat": -66.191, "lng": -36.326},
+			{"lat": -47.885, "lng": -2.602},
 
 
-			{"lat": -65.503, "lng": -36.249},
+			{"lat": -48.733, "lng": 1.177},
 
 
-			{"lat": -65.490, "lng": -33.876}
+
+			{"lat": -51.219, "lng": -0.273},
+
+
+
+			{"lat": -50.386, "lng": -4.140}
+
+		]
+	},
+
+	{
+		"id": 1008,
+		"type": "Territories",
+		"title": "Hydra",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "90EE90",
+		"fillcolor": "90EE90",
+		"latlngarray": [
+			{"lat": -76.079, "lng": -41.737},
+
+
+			{"lat": -76.444, "lng": -40.198},
+
+
+			{"lat": -76.690, "lng": -44.154},
+
+
+
+
+			{"lat": -77.029, "lng": -42.659}
+
+
 		]
 	}
+
+
+
 ]
